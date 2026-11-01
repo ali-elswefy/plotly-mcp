@@ -483,4 +483,3 @@ $RECYCLE.BIN/
 
 # Machine-local settings (browser path etc.) and rendered output
 appsettings.Local.json
-charts/
